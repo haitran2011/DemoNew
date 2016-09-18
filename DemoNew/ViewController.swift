@@ -34,6 +34,12 @@ class ViewController: UIViewController {
     func loc1()  {
         
     }
+    func loc2()  {
+        
+    }
+    func loc3()  {
+        
+    }
 
     
 
