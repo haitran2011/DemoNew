@@ -47,7 +47,14 @@ class ViewController: UIViewController {
     func loc5()  {
         
     }
-    
+    func loc6()  {
+        
+    }
+    func loc7()  {
+        
+    }
+
+
 
     
 
